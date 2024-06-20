@@ -288,7 +288,7 @@
     <name>SMIF QSPI Flash Read Write</name>
     <id>mtb-t2g-example-smif-qspi-flash-read-write</id>
     <category>Additional Code Examples</category>
-    <uri>https://github.com/Infineon/mtb-t2g-example-smif-qspi-flash-read-write</uri>
+    <uri>https://github.com/Infineon-Mirror/mtb-t2g-example-smif-qspi-flash-read-write</uri>
     <description><![CDATA[This example demonstrates interfacing with an external NOR flash memory in Quad SPI (QSPI) mode using the serial memory interface (SMIF) in Infineon MCU. This code example configures the QSPI flash memory mounted on the board with the QSPI Configurator and accesses it via the serial-flash library.
     <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-t2g-example-smif-qspi-flash-read-write/blob/main/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>t2gbh</req_capabilities>
